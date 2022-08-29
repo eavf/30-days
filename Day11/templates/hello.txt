@@ -1,0 +1,6 @@
+Hello {name}!
+
+This is cool!
+
+Here is a list of coolest products in our genial store.....
+{product}

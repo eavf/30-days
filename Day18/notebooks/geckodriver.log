@@ -1,0 +1,368 @@
+1661184319412	geckodriver	INFO	Listening on 127.0.0.1:54850
+1661185358483	geckodriver	INFO	Listening on 127.0.0.1:55284
+1661185361534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile2FPEN1"
+1661185361963	Marionette	INFO	Marionette enabled
+1661185361968	Marionette	INFO	Listening on port 55294
+WebDriver BiDi listening on ws://localhost:55285
+Read port: 55294
+1661185362152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile2FPEN1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55285/devtools/browser/7c3d6c2d-a7b3-4655-8d68-57c73784a0cf
+JavaScript warning: https://www.amazon.fr/gp/bestsellers/toys/ref=zg_bs_nav_0 line 2146 > injectedScript, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://www.amazon.fr/gp/bestsellers/toys/ref=zg_bs_nav_0 line 2146 > injectedScript, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.fr"
+1661185487935	geckodriver	INFO	Listening on 127.0.0.1:55366
+1661185490999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile1NwAFp"
+*** You are running in headless mode.
+1661185491393	Marionette	INFO	Marionette enabled
+1661185491397	Marionette	INFO	Listening on port 55376
+WebDriver BiDi listening on ws://localhost:55367
+Read port: 55376
+1661185491598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile1NwAFp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55367/devtools/browser/c922cb22-b702-4ea6-a92e-5aa7093366c6
+JavaScript warning: https://www.amazon.fr/gp/bestsellers/toys/ref=zg_bs_nav_0 line 2134 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/deals/?_encoding=UTF8&deals-widget=%257B%2522presetId%2522%3A%2522deals-collection-all-deals%2522%257D&ref_=nav_swm_EOSS22_SWM&pf_rd_p=9455c5c9-466d-4785-a081-e47d50d3150c&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A13V1IB3VIYZZH&pf_rd_r=FY2SNXRFXC6JZP4FVXSN line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.amazon.com/SKYJO-Magilano-Nouveau-divertir-Amusantes/dp/B082YWGB3R/ref=zg_bs_toys_sccl_23/262-3916795-6325628?pd_rd_i=B084XB3L1L&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com/Mattel-Games-soci%C3%A9t%C3%A9-joueurs-HHL33/dp/B09MSB4X2G/ref=zg_bs_toys_sccl_6/262-3916795-6325628?pd_rd_i=B0B3BV6JRH&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/subs/primeclub/signup/main.html?ref_=footer_prime line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/music/unlimited?ref_=nav_cs_music line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/showroom/switch line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/ref=zg_bs_unv_toys_0_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363543031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363713031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/movers-and-shakers/toys/ref=zg_bs_tab_t_bsms line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363533031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/BIT?bitCampaignCode=a0022&ref_=nav_ListFlyout_bit_v2_a0022 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://horizonte.browserapps.amazon.com/crossdomainlocalstoragewriter?programCode=a0022&tagbase=amazon1& line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/Personnalis%C3%A9-Marquer-V%C3%AAtements-SEstomper-%C3%89tudiant/dp/B097BR33TF/ref=zg_bs_toys_sccl_5/262-3916795-6325628?pd_rd_i=B097BR33TF&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/PAT-PATROUILLE-V%C3%89HICULE-Collectionner-Patrouille/dp/B08T19F29G/ref=zg_bs_toys_sccl_7/262-3916795-6325628?pd_rd_i=B0B9MKL3CS&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_help line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363696031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363682031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/hz/wishlist/intro line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363758031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=GUUVBZ8WGVFP8R8X&ref_=footer_gw_access line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=559912&ref_=footer_gw_m_b_cs line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/MAPED-Essentials-Ciseaux-bouts-gradu%C3%A9es/dp/B07R48YT46/ref=zg_bs_toys_sccl_12/262-3916795-6325628?pd_rd_i=B07R48YT46&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fmc%3Fref_%3Dnav_AccountFlyout_prime&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_membershipcentral_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/SKYJO-Magilano-divertir-amusantes-famille/dp/B06XZ9K244/ref=zg_bs_toys_sccl_3/262-3916795-6325628?pd_rd_i=B06XZ9K244&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363560031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Mattel-Games-Deluxe-Soci%C3%A9t%C3%A9-K0888/dp/B000CFWFYM/ref=zg_bs_toys_sccl_15/262-3916795-6325628?pd_rd_i=B09SGXX1WY&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/baby-reg/homepage?ref_=nav_ListFlyout_gno_listpop_br line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=548566&ref_=footer_shiprates line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/BIC-Kids-Couleur-Feutres-Coloriage/dp/B005D1RV8A/ref=zg_bs_toys_sccl_9/262-3916795-6325628?pd_rd_i=B09CLB4THC&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363496031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/ref=zg_bs_pg_1?ie=UTF8&pg=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/yourstore?ref_=nav_AccountFlyout_recs line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363689031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363663031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/most-wished-for/toys/ref=zg_bs_tab_t_mw line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Bic-Kids-Couleur-Crayons-couleur/dp/B009S7V9F6/ref=zg_bs_toys_sccl_16/262-3916795-6325628?pd_rd_i=B009S7V9F6&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363670031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=201267600&ref_=footer_payment line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fmycd%2Fmyx&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0& line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/auto-deliveries/landing?ref_=nav_cs_sns line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363765031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-history%3Fie%3DUTF8%26ref_%3Dnav_AccountFlyout_orders&pageId=webcs-yourorder&showRmrMe=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/14507350031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fkindle-dbs%2Fku%2Fku-central%3Fref_%3Dnav_AccountFlyout_ku&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_kplp_mobile_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/ASTGMI-Appareil-Num%C3%A9rique-Rechargeable-Cam%C3%A9scope/dp/B09YY25Q4Z/ref=zg_bs_toys_sccl_25/262-3916795-6325628?pd_rd_i=B0B8X215NS&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/20378934031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/deals?ref_=nav_cs_td_T9_dt_cr line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: Error in body stream
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/UNO-Flip-soci%C3%A9t%C3%A9-cartes-GDR44/dp/B07JKB2H59/ref=zg_bs_toys_sccl_24/262-3916795-6325628?pd_rd_i=B09GSMXCL9&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363683031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000&ref_=footer_cou line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-history%3Fie%3DUTF8%26ref_%3Dnav_orders_first&pageId=webcs-yourorder&showRmrMe=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=200233750&ref_=footer_tfx line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/91CkRZr8CkL.js, line 22: unreachable code after return statement
+JavaScript warning: https://m.media-amazon.com/images/I/91CkRZr8CkL.js, line 22: unreachable code after return statement
+JavaScript warning: https://m.media-amazon.com/images/I/91CkRZr8CkL.js, line 22: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/gcx/-/gfhz/?ref_=nav_cs_giftfinder line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Amazon_Basics?field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Staedtler-Colour-Crayons-Couleur-Assortis/dp/B00SF4NT06/ref=zg_bs_toys_sccl_13/262-3916795-6325628?pd_rd_i=B07N24DFJM&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/BIC-Kids-Visacolor-Feutres-Coloriage/dp/B001ANYZGG/ref=zg_bs_toys_sccl_19/262-3916795-6325628?pd_rd_i=B09ZFP34NY&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363481031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fauto-deliveries%3Fref_%3Dnav_AccountFlyout_sns&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_subscribe_save_myd_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=900&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fswvgdtt%2Fyour-account%2Fmanage-downloads.html%3Fie%3DUTF8%26ref_%3Dnav_AccountFlyout_gsl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=201890250&ref_=footer_cookies_notice line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%3A443%2Fhz%2Fmas%2Fthank-you%2Fyour-account%2Fmyapps%2F**%3Fref_%3Dnav_AccountFlyout_aad&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_masrw_webapp_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/BIC-Kids-Visa-Feutres-Coloriage/dp/B00008D0TW/ref=zg_bs_toys_sccl_8/262-3916795-6325628?pd_rd_i=B0B15FHV6K&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363603031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/20378935031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&accountStatusPolicy=P1&openid.assoc_handle=usflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Forder-history%3Fie%3DUTF8%26ref_%3Dfooter_hp_ss_comp_tmp&pageId=webcs-yourorder&showRmrMe=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/?_encoding=UTF8&ref_=footer_logo line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363587031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/history line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fspr%2Freturns%2Fhomepage%2Fhomepage.html%3Fref_%3Dfooter_hy_f_4&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_psr_desktop_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=201909150&ref_=footer_Interest_Based_Ads_Notice line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/discover?ref_=nav_ListFlyout_sbl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363514031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/BIC-Kids-Tropicolors-Crayons-Couleur/dp/B001AHNP2W/ref=zg_bs_toys_sccl_1/262-3916795-6325628?pd_rd_i=B001AHNP2W&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/20378936031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&ref_=footer_covid line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/ref=zg_bs_pg_2?ie=UTF8&pg=2 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/?ie=UTF8&ref_=sv_t_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363575031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=GE2WLMMQBF4T5WMN&ref_=footer_info_mkpl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/amazonprime?ref_=nav_cs_primelink_nonmember line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/gp/product/B086KKT3RX? line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.com/wedding/home?ref_=nav_ListFlyout_gno_listpop_wr line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/bestsellers/toys/363676031/ref=zg_bs_nav_toys_1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Lamavido-Blouse-Peinture-Tablier-Imperm%C3%A9able/dp/B07CJT6C1G/ref=zg_bs_toys_sccl_11/262-3916795-6325628?pd_rd_i=B07H23HJ8V&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fclouddrive%2Fauth&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_drive_web_us&openid.mode=checkid_setup&siteState=https%3A%2F%2Fwww.amazon.com%2Fclouddrive%3Fref_%3Dnav_AccountFlyout_clddrv&marketPlaceId=ATVPDKIKX0DER&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Borderline-Editions-Kluster-Jeu-daimants/dp/B07Z5B7G7X/ref=zg_bs_toys_sccl_14/262-3916795-6325628?pd_rd_i=B07Z5B7G7X&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010&ref_=footer_privacy line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?clientContext=132-7192338-4181969&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fhz5%2Fyourmembershipsandsubscriptions%3Fref_%3Dnav_AccountFlyout_digital_subscriptions&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_swa_desktop_na&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amazon&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D138-4727969-5439353%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.com%252Fhz5%252Fyourmembershipsandsubscriptions%253Fref_%253Dnav_AccountFlyout_digital_subscriptions%2Csignature%3D8j2B9aJnLbeFwZS1j2BQ1K8M6BKioVkj3D line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fhz%2Fcontact-us%2Faccessibility&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_contactus_desktop_us&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=login&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/most-gifted/toys/ref=zg_bs_tab_t_mg line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/STABILO-power-feutres-moyenne-assortis/dp/B000WGWP0K/ref=zg_bs_toys_sccl_17/262-3916795-6325628?pd_rd_i=B0B5H9X666&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/ref=nav_logo line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/new-releases/toys/ref=zg_bs_tab_t_bsnr line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/41aIOlS0jAL.js?xcp, line 37: TypeError: a.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://www.amazon.com/hz/wishlist/intro line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+JavaScript warning: https://www.amazon.com/Mattel-Games-Scrabble-Fran%C3%A7aise-Y9585/dp/B00CN3SQ6W/ref=zg_bs_toys_sccl_22/262-3916795-6325628?pd_rd_i=B09SGXFSVB&psc=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/gp/BIT/ref=footer_bit_v2_e0003?bitCampaignCode=e0003 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://horizonte.browserapps.amazon.com/crossdomainlocalstoragewriter?programCode=e0003&tagbase=amazon1& line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661188181518	geckodriver	INFO	Listening on 127.0.0.1:55994
+1661188184587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileHLwUX4"
+*** You are running in headless mode.
+1661188184992	Marionette	INFO	Marionette enabled
+1661188184997	Marionette	INFO	Listening on port 56004
+WebDriver BiDi listening on ws://localhost:55995
+Read port: 56004
+1661188185101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileHLwUX4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55995/devtools/browser/482284d1-30e5-4737-9744-79fe4c681ba7
+JavaScript warning: https://www.amazon.fr/gp/bestsellers/toys/ref=zg_bs_nav_0 line 2134 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51SrwqaWgEL.js?AUIClients/CardJsRuntimeBuzzCopyBuild, line 32: TypeError: b.cardModuleFactory is not a function
+1661188574138	geckodriver	INFO	Listening on 127.0.0.1:56181
+1661188577194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile88hmyJ"
+*** You are running in headless mode.
+1661188577609	Marionette	INFO	Marionette enabled
+1661188577615	Marionette	INFO	Listening on port 56194
+WebDriver BiDi listening on ws://localhost:56182
+Read port: 56194
+1661188577734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofile88hmyJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56182/devtools/browser/9ddbf3cf-1c34-45d4-a196-f5c4b3032c4f
+1661188633841	geckodriver	INFO	Listening on 127.0.0.1:56301
+1661188636867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofiledJDw8M"
+*** You are running in headless mode.
+1661188637267	Marionette	INFO	Marionette enabled
+1661188637273	Marionette	INFO	Listening on port 56312
+WebDriver BiDi listening on ws://localhost:56302
+Read port: 56312
+1661188637392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofiledJDw8M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56302/devtools/browser/1e7a76aa-b242-4237-ae24-acec41d14b4b
+1661188666733	geckodriver	INFO	Listening on 127.0.0.1:56406
+1661188669814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileMyIK0l"
+*** You are running in headless mode.
+1661188670246	Marionette	INFO	Marionette enabled
+1661188670251	Marionette	INFO	Listening on port 56419
+WebDriver BiDi listening on ws://localhost:56407
+Read port: 56419
+1661188670353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileMyIK0l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56407/devtools/browser/ac7eb187-054f-4ea7-afc2-95f164c0b643
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+JavaScript error: https://gude.gude.sk/themes/gude/js/contact-form.js, line 26: TypeError: $.uniform is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://gude.gude.sk"
+JavaScript error: https://gude.gude.sk/themes/gude/js/contact-form.js, line 26: TypeError: $.uniform is undefined
+1661190658452	geckodriver	INFO	Listening on 127.0.0.1:57738
+1661190661517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileFdehpI"
+*** You are running in headless mode.
+1661190661929	Marionette	INFO	Marionette enabled
+1661190661934	Marionette	INFO	Listening on port 57749
+WebDriver BiDi listening on ws://localhost:57739
+Read port: 57749
+1661190662035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileFdehpI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57739/devtools/browser/93026630-a22c-4ddb-8ab1-ef36c1305b30
+1661200975881	geckodriver	INFO	Listening on 127.0.0.1:64273
+1661200978950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileYKc0Pg"
+*** You are running in headless mode.
+1661200979344	Marionette	INFO	Marionette enabled
+1661200979349	Marionette	INFO	Listening on port 64285
+WebDriver BiDi listening on ws://localhost:64274
+Read port: 64285
+1661200979554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileYKc0Pg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64274/devtools/browser/c4b17b3e-68ed-46ee-b252-9f815fc1ac7a
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+1661201487944	geckodriver	INFO	Listening on 127.0.0.1:64636
+1661201491015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileCjB5UZ"
+*** You are running in headless mode.
+1661201491415	Marionette	INFO	Marionette enabled
+1661201491420	Marionette	INFO	Listening on port 64648
+WebDriver BiDi listening on ws://localhost:64637
+Read port: 64648
+1661201491623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vovo\\AppData\\Local\\Temp\\rust_mozprofileCjB5UZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64637/devtools/browser/b56a7e67-7957-44db-b04d-9938621dbcff

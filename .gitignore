@@ -1,0 +1,9 @@
+_kluce.py
+*-workspace*
+pyvenv.cfg
+*.csv
+.my_venv/
+*.jpg
+*.gif
+*.exe
+*.mp4

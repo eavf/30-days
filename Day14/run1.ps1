@@ -1,0 +1,1 @@
+waitress-serve --listen=*:8888 server1:app
