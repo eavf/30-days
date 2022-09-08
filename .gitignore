@@ -7,3 +7,4 @@ pyvenv.cfg
 *.gif
 *.exe
 *.mp4
+cred*
