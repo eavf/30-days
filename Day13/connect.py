@@ -92,9 +92,6 @@ for movie_id in movie_ids:
 df = pd.DataFrame(movie_data)
 print(df.head())
 df.to_csv(output, index=False)
-    
-    
-    
-    
+
     
 # what is http method that we need
