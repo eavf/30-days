@@ -4,8 +4,7 @@ from operator import truediv
 
 # environment variables
 host = 'imap.gmail.com'
-username = 'eavfeavf@gmail.com'
-password = 'aafnjdioifpzvyzq'   # heslo pre aplikácie v google
+from _kluce import *
 
 
 
